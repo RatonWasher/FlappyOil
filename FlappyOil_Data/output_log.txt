@@ -1,0 +1,175 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7654]
+    Renderer: NVIDIA GeForce 840M
+    Vendor:   NVIDIA
+    VRAM:     2019 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Antoine\Documents\UnityProjects\FlappyOil\FlappyOil_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Antoine\Documents\UnityProjects\FlappyOil\FlappyOil_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Antoine\Documents\UnityProjects\FlappyOil\FlappyOil_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Antoine\Documents\UnityProjects\FlappyOil\FlappyOil_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Antoine\Documents\UnityProjects\FlappyOil\FlappyOil_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Antoine\Documents\UnityProjects\FlappyOil\FlappyOil_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Antoine\Documents\UnityProjects\FlappyOil\FlappyOil_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Antoine\Documents\UnityProjects\FlappyOil\FlappyOil_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.155 seconds
+Platform assembly: C:\Users\Antoine\Documents\UnityProjects\FlappyOil\FlappyOil_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Antoine\Documents\UnityProjects\FlappyOil\FlappyOil_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.502525 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.197056 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.231722 ms (FindLiveObjects: 0.031185 ms CreateObjectMapping: 0.022501 ms MarkObjects: 0.167771 ms  DeleteObjects: 0.009474 ms)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.962337 ms
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 185.
+Total: 0.193825 ms (FindLiveObjects: 0.014606 ms CreateObjectMapping: 0.011842 ms MarkObjects: 0.145665 ms  DeleteObjects: 0.021316 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.368703 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.257776 ms (FindLiveObjects: 0.033159 ms CreateObjectMapping: 0.024474 ms MarkObjects: 0.187509 ms  DeleteObjects: 0.011447 ms)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Scene 'Stage1' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 154c -> priority: 1 
